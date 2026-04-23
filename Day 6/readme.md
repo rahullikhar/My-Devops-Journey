@@ -4,7 +4,7 @@
 
 
 
-Today’s goal was to actually connect to the virtual server (EC2 instance) I created and start getting comfortable using the command line inside it.
+# Today’s goal was to actually connect to the virtual server (EC2 instance) I created and start getting comfortable using the command line inside it.
 
 # **1. Connecting via SSH**:
 To connect to the EC2 instance from my laptop, I used the SSH (Secure Shell) command in my Bash terminal.
