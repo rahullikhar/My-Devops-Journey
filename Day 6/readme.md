@@ -1,5 +1,9 @@
 # Day 6: Connecting to AWS EC2 & Practice with Linux Commands 🐧
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/9d737ca3-c64d-4cfa-99f7-75818c1f002f" />
+
+
+
 Today’s goal was to actually connect to the virtual server (EC2 instance) I created and start getting comfortable using the command line inside it.
 
 # **1. Connecting via SSH**:
