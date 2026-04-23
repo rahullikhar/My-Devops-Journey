@@ -1,6 +1,6 @@
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6a9428c0-15f6-4e8a-91df-b6048df3c801" />
 
-# Day 5: How the Web Works & My First Look at AWS ☁️
+# Day 4 and 5: How the Web Works & My First Look at AWS ☁️
 
 Today I took a step back from networking cables and IP addresses to look at the bigger picture: how apps actually talk to each other, and where they live.
 
