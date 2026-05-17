@@ -69,4 +69,3 @@ cat /etc/group
 # Search to see if a specific group exists and who is inside it
 getent group devops
 ```
-```
