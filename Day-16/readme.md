@@ -1,3 +1,4 @@
+<img width="1438" height="1061" alt="image" src="https://github.com/user-attachments/assets/e5542c45-7629-44bd-920e-4f8fb14a1648" />
 
 
 # Day 17: Text Processing & Filtering (`grep` & `vim`) 🔍
