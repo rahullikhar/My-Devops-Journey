@@ -39,4 +39,4 @@ ls -ld /opt/project
 sudo chmod 2775 /opt/project
 ```
 
-**Why this matters**: Now, if I create app.py inside /opt/project, the file will automatically be owned by the devops group, meaning my teammates can immediately collaborate on it without me having to run chgrp manually every time.
+**Why this matters**: Now, if I create app.py inside /opt/project, the file will automatically be owned by the devops group, meaning my teammates can immediately collaborate on it without me having to run chgrp manually every time
