@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# Simple System Health Check Script
+# Script Name: system_health_check.sh
+# Description: A simple script to check server health for L1 Support.
+# Author: Rahul Likhar
 
 echo "===== System Health Check ====="
 
